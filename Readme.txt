@@ -1,4 +1,4 @@
 Git
-<view id="hello">
+<view id="hello" backgroudcolor="RED">
 	hello world!
 </view>
